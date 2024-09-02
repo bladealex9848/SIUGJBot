@@ -1,0 +1,23 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos específicos de Streamlit
+.streamlit/
+
+# Archivos de configuración y secretos (¡importante!)
+.env
+.streamlit/secrets.toml
+
+# Archivos temporales o de caché
+*.log
+*.tmp
+
+# Archivos de IDE o editor de texto
+.idea/
+.vscode/
+
+# Archivos de datos
+.DS_Store
